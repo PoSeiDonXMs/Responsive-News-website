@@ -1,4 +1,5 @@
 # News Website
+![image](https://github.com/PoSeiDonXMs/Responsive-News-website/assets/116294690/93bff909-0b3b-4bca-a3bb-5807f1eeaf4b)
 
 **Overview**
 
