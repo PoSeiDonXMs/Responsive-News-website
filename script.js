@@ -27,7 +27,7 @@ async function fetchMainHeadline(query = null) {
         const data = await response.json();
         console.log(data);
 
-        const mainArticle = data.articles[1]; // Assuming you want the first article
+        const mainArticle = data.articles[2]; // Assuming you want the first article
         if (!mainArticle) {
             console.error("No main article found.");
             return;
